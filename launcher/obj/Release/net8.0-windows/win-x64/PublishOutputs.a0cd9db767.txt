@@ -1,7 +1,0 @@
-D:\Cloudy Game Engine\dist\NindoLauncher\NindoLauncher.pdb
-D:\Cloudy Game Engine\dist\NindoLauncher\D3DCompiler_47_cor3.dll
-D:\Cloudy Game Engine\dist\NindoLauncher\PenImc_cor3.dll
-D:\Cloudy Game Engine\dist\NindoLauncher\PresentationNative_cor3.dll
-D:\Cloudy Game Engine\dist\NindoLauncher\vcruntime140_cor3.dll
-D:\Cloudy Game Engine\dist\NindoLauncher\wpfgfx_cor3.dll
-D:\Cloudy Game Engine\dist\NindoLauncher\NindoLauncher.exe
