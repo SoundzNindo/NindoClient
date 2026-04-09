@@ -1,0 +1,22 @@
+{
+  "id": "health_potion",
+  "name": "Health Potion",
+  "inputs": [
+    {
+      "item_id": "herb",
+      "quantity": 2
+    },
+    {
+      "item_id": "water",
+      "quantity": 1
+    }
+  ],
+  "outputs": [
+    {
+      "item_id": "health_potion",
+      "quantity": 1
+    }
+  ],
+  "craft_time": 2.0,
+  "category": "alchemy"
+}

@@ -1,0 +1,32 @@
+# Example Entity: Player Character
+id = "player"
+name = "Player Character"
+description = "The main player character"
+tags = ["player", "controllable"]
+
+[components.transform]
+x = 0.0
+y = 0.0
+z = 0.0
+
+[components.health]
+current = 100.0
+maximum = 100.0
+
+[components.velocity]
+x = 0.0
+y = 0.0
+z = 0.0
+
+[components.sprite]
+texture_path = "assets/sprites/player.png"
+width = 32
+height = 32
+
+[components.collider]
+type = "Box"
+width = 28.0
+height = 28.0
+is_trigger = false
+collision_layer = 1
+collision_mask = 4294967295

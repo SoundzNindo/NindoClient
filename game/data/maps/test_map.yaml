@@ -1,0 +1,37 @@
+id: test_map
+name: Test Map
+width: 32
+height: 24
+
+layers:
+  - name: ground
+    tileset_path: assets/tilesets/ground.png
+    visible: true
+    opacity: 1.0
+    tiles:
+      # 32x24 tile grid (simplified for example)
+      # In production, use a proper map editor
+      
+  - name: decorations
+    tileset_path: assets/tilesets/decorations.png
+    visible: true
+    opacity: 1.0
+
+entities:
+  - entity_id: player
+    x: 160.0
+    y: 120.0
+    
+  - entity_id: slime
+    x: 300.0
+    y: 200.0
+    
+  - entity_id: slime
+    x: 450.0
+    y: 180.0
+
+properties:
+  background_music: "assets/music/forest.ogg"
+  ambient_light: "#FFFFFF"
+  spawn_point_x: 160.0
+  spawn_point_y: 120.0

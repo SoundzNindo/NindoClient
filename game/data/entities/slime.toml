@@ -1,0 +1,27 @@
+# Example Entity: Enemy Slime
+id = "slime"
+name = "Slime"
+description = "A basic enemy slime"
+tags = ["enemy", "hostile"]
+
+[components.transform]
+x = 0.0
+y = 0.0
+
+[components.health]
+current = 30.0
+maximum = 30.0
+
+[components.velocity]
+x = 0.0
+y = 0.0
+
+[components.sprite]
+texture_path = "assets/sprites/slime.png"
+width = 24
+height = 24
+
+[components.collider]
+type = "Circle"
+radius = 12.0
+is_trigger = false

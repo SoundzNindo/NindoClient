@@ -1,0 +1,7 @@
+{
+  "serverHost": "127.0.0.1",
+  "serverPort": 1906,
+  "updateUrl": "",
+  "gameDirectory": "game",
+  "closeOnLaunch": false
+}
