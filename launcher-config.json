@@ -1,7 +1,7 @@
 {
-  "serverHost": "127.0.0.1",
+  "serverHost": "10.0.0.2",
   "serverPort": 1906,
   "updateUrl": "https://github.com/SoundzNindo/NindoClient/releases/latest/download",
   "gameDirectory": "game",
-  "closeOnLaunch": false
+  "closeOnLaunch": true
 }

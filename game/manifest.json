@@ -1,5 +1,5 @@
 ﻿{
-    "buildDate":  "2026-04-10T13:18:04Z",
+    "buildDate":  "2026-04-10T15:06:48Z",
     "files":  [
                   {
                       "path":  "Microsoft.CSharp.dll",
@@ -1348,8 +1348,8 @@
                   },
                   {
                       "path":  "manifest.json",
-                      "sha256":  "eacca17a89110794f6a0c18d53d5d3ce1c17bfc3c3136cd4124314ea9ac7568e",
-                      "size":  360797
+                      "sha256":  "2ea906c5482dc5e4c88385c28008c1eac46bfadd3f60afa81ef84f80b32fc049",
+                      "size":  362045
                   },
                   {
                       "path":  "CloudyEngine.Core.dll",
@@ -1422,46 +1422,6 @@
                       "size":  151552
                   },
                   {
-                      "path":  "NindoServer.runtimeconfig.json",
-                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
-                      "size":  372
-                  },
-                  {
-                      "path":  "NindoServer.deps.json",
-                      "sha256":  "01bbf0e69f1029dbf77b1b394b6d95aa62e15aee0b19a778e9f64ca068f33647",
-                      "size":  56049
-                  },
-                  {
-                      "path":  "NindoRuntime.dll",
-                      "sha256":  "ecc00eedc9ab1b25b7e0dedc88825fb1a4f9f8a445333e5fe1ecf48dfbfdfd79",
-                      "size":  1162240
-                  },
-                  {
-                      "path":  "CloudyEngine.Server.deps.json",
-                      "sha256":  "2986b3024504db582bcee94293bc1b346bacf492213623311d8e40cc44ec762b",
-                      "size":  48649
-                  },
-                  {
-                      "path":  "CloudyEngine.Server.runtimeconfig.json",
-                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
-                      "size":  372
-                  },
-                  {
-                      "path":  "NindoRuntime.deps.json",
-                      "sha256":  "4567d117b46c26ff94472abf4cd6a9de62bd959b51a7e045ce9e41618d8bf503",
-                      "size":  68227
-                  },
-                  {
-                      "path":  "NindoRuntime.runtimeconfig.json",
-                      "sha256":  "413d6fb184292d2b7a3014e7fb5cd96c95df5009cad7fabadc01ff8a6c49ac5c",
-                      "size":  468
-                  },
-                  {
-                      "path":  "NindoRuntime.pdb",
-                      "sha256":  "0ed0e67037960df540daba042caf597ea0ed331e6b9bfa30359f92ee2ce2b343",
-                      "size":  391708
-                  },
-                  {
                       "path":  "CloudyEngine.Networking.dll",
                       "sha256":  "d2b8293a5c92db368b30dcf7858321e28e6ca733a2ebe72e5c8c7a2e9ca0bd3a",
                       "size":  272896
@@ -1480,6 +1440,46 @@
                       "path":  "CloudyEngine.Networking.pdb",
                       "sha256":  "88d3893ae1e076e2be5bd74d4c5cbc9a26b2306e3780a977bf144669aef59476",
                       "size":  89348
+                  },
+                  {
+                      "path":  "NindoServer.deps.json",
+                      "sha256":  "01bbf0e69f1029dbf77b1b394b6d95aa62e15aee0b19a778e9f64ca068f33647",
+                      "size":  56049
+                  },
+                  {
+                      "path":  "CloudyEngine.Server.deps.json",
+                      "sha256":  "2986b3024504db582bcee94293bc1b346bacf492213623311d8e40cc44ec762b",
+                      "size":  48649
+                  },
+                  {
+                      "path":  "CloudyEngine.Server.runtimeconfig.json",
+                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
+                      "size":  372
+                  },
+                  {
+                      "path":  "NindoRuntime.deps.json",
+                      "sha256":  "4567d117b46c26ff94472abf4cd6a9de62bd959b51a7e045ce9e41618d8bf503",
+                      "size":  68227
+                  },
+                  {
+                      "path":  "NindoServer.runtimeconfig.json",
+                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
+                      "size":  372
+                  },
+                  {
+                      "path":  "NindoRuntime.dll",
+                      "sha256":  "2cb2f85fb1655a8d8ce951f103a3141cc86a3bf3c7341e68c932558cdb91a9f8",
+                      "size":  1162752
+                  },
+                  {
+                      "path":  "NindoRuntime.runtimeconfig.json",
+                      "sha256":  "413d6fb184292d2b7a3014e7fb5cd96c95df5009cad7fabadc01ff8a6c49ac5c",
+                      "size":  468
+                  },
+                  {
+                      "path":  "NindoRuntime.pdb",
+                      "sha256":  "6059d752f3983d7383cc61cf82b2ad3aa223b8778c34e7a0fdc8e52cc896c6a5",
+                      "size":  392280
                   },
                   {
                       "path":  "NindoRuntime.exe",
@@ -7180,9 +7180,19 @@
                       "path":  "logs/auth_sessions.log",
                       "sha256":  "5004cef3064d3d8f03da2b8692802861b52b6c89aeafd186b1c6f1c00541beb9",
                       "size":  418
+                  },
+                  {
+                      "path":  "PlayerData/Accounts/kappa.account",
+                      "sha256":  "2ee108a4c6d244015cc584d8847b9c32c1f32ddb3dc5c2505bb39e3c1ed7d453",
+                      "size":  77
+                  },
+                  {
+                      "path":  "PlayerData/Accounts/locks/kappa.lock",
+                      "sha256":  "e38ab7d3075c2759fc079276fc667a4963ffe572d0ae90b4b87fb7813872b540",
+                      "size":  4
                   }
               ],
     "version":  "0.1.3",
-    "fileCount":  1436,
-    "totalSize":  262806520
+    "fileCount":  1438,
+    "totalSize":  262808933
 }

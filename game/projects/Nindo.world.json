@@ -3,7 +3,7 @@
   "Maps": [
     {
       "MapId": "current_map",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\current_map.toml",
+      "FilePath": "current_map.toml",
       "GridX": 3,
       "GridY": 0,
       "WidthTiles": 1,
@@ -11,7 +11,7 @@
     },
     {
       "MapId": "leaf_southern_path",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\leaf_southern_path.json",
+      "FilePath": "leaf_southern_path.json",
       "GridX": 3,
       "GridY": 1,
       "WidthTiles": 1,
@@ -19,7 +19,7 @@
     },
     {
       "MapId": "leaf_southern_path2",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\leaf_southern_path2.json",
+      "FilePath": "leaf_southern_path2.json",
       "GridX": 3,
       "GridY": 2,
       "WidthTiles": 1,
@@ -27,7 +27,7 @@
     },
     {
       "MapId": "leaf_training_ground",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\leaf_training_ground.json",
+      "FilePath": "leaf_training_ground.json",
       "GridX": 4,
       "GridY": 2,
       "WidthTiles": 1,
@@ -35,7 +35,7 @@
     },
     {
       "MapId": "west_southernleaf2_path",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\west_southernleaf2_path.json",
+      "FilePath": "west_southernleaf2_path.json",
       "GridX": 2,
       "GridY": 2,
       "WidthTiles": 1,
@@ -43,7 +43,7 @@
     },
     {
       "MapId": "leaf_southern_end",
-      "FilePath": "D:\\Cloudy Game Engine\\tools\\CloudyEditor\\bin\\TempBuild\\leaf_southern_end.json",
+      "FilePath": "leaf_southern_end.json",
       "GridX": 3,
       "GridY": 3,
       "WidthTiles": 1,

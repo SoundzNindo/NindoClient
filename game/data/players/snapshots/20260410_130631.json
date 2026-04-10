@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-04-10T13:06:31.2471062-05:00",
+  "onlineCount": 1,
+  "players": [
+    {
+      "accountName": "severus",
+      "characterName": "Severus",
+      "adminLevel": "None",
+      "currentMap": "default",
+      "x": 100,
+      "y": 100,
+      "ping": 0,
+      "level": 1,
+      "experience": 0,
+      "experienceToNext": 100,
+      "battleLevel": 1,
+      "statPoints": 0,
+      "rank": "Academy Student",
+      "village": "Konohagakure (Leaf)",
+      "clan": "",
+      "health": 100,
+      "maxHealth": 500,
+      "chakra": 50,
+      "maxChakra": 300,
+      "stamina": 1000,
+      "maxStamina": 1000,
+      "strength": 50,
+      "control": 50,
+      "reflex": 50,
+      "intelligence": 50,
+      "attack": 120,
+      "defense": 5,
+      "speed": 50,
+      "ninjutsu": 5,
+      "taijutsu": 5,
+      "genjutsu": 5,
+      "bounty": 0,
+      "ryo": 100,
+      "supplies": 1000,
+      "wounds": 0,
+      "jutsu": [
+        {
+          "jutsuId": "clone",
+          "level": 1
+        },
+        {
+          "jutsuId": "body_replacement",
+          "level": 1
+        },
+        {
+          "jutsuId": "body_flicker",
+          "level": 1
+        },
+        {
+          "jutsuId": "transform",
+          "level": 1
+        }
+      ],
+      "items": [
+        {
+          "itemId": "kunai_bundle",
+          "quantity": 10
+        },
+        {
+          "itemId": "shuriken_bundle",
+          "quantity": 10
+        },
+        {
+          "itemId": "needle_bundle",
+          "quantity": 10
+        },
+        {
+          "itemId": "kunai_basic",
+          "quantity": 1
+        },
+        {
+          "itemId": "healing_potion",
+          "quantity": 5
+        }
+      ],
+      "equipment": {
+        "weapon": "kunai_basic",
+        "armor": "",
+        "headband": "",
+        "accessory1": "",
+        "accessory2": "",
+        "headGear": "starter_hair",
+        "undershirt": "starter_shirt",
+        "overcoat": "",
+        "pants": "starter_pants",
+        "shoes": "starter_shoes",
+        "misc": ""
+      },
+      "activeQuests": [],
+      "completedQuests": []
+    }
+  ]
+}

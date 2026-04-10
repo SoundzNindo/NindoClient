@@ -23,6 +23,10 @@ ehthumbs.db
 Desktop.ini
 .DS_Store
 
+# Server files (should not be in client releases)
+game/CloudyEngine.Server.*
+game/NindoServer.*
+
 # Runtime config / dependency files (built outputs)
 game/*.deps.json
 game/*.runtimeconfig.json
@@ -36,3 +40,6 @@ game/**/*.pdb
 !game/projects/**
 !game/shaders/**
 !game/manifest.json
+
+# Release zips
+NindoLauncher-*.zip

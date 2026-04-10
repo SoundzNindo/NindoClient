@@ -10,7 +10,7 @@ public class LauncherConfig
     private static readonly string ConfigPath = Path.Combine(AppContext.BaseDirectory, "launcher-config.json");
 
     [JsonPropertyName("serverHost")]
-    public string ServerHost { get; set; } = "127.0.0.1";
+    public string ServerHost { get; set; } = "10.0.0.2";
 
     [JsonPropertyName("serverPort")]
     public int ServerPort { get; set; } = 1906;
@@ -22,7 +22,7 @@ public class LauncherConfig
     public string GameDirectory { get; set; } = "game";
 
     [JsonPropertyName("closeOnLaunch")]
-    public bool CloseOnLaunch { get; set; } = false;
+    public bool CloseOnLaunch { get; set; } = true;
 
     public static LauncherConfig Load()
     {

@@ -1,0 +1,492 @@
+{
+  "name": "base white",
+  "width": 64,
+  "height": 64,
+  "framesPerRow": 25,
+  "sheetWidth": 1600,
+  "sheetHeight": 1536,
+  "sourceFile": "base white.dmi",
+  "convertedDate": "2026-04-03 21:08:31",
+  "animations": {
+    "idle": {
+      "startFrame": 0,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": null,
+      "isMovement": false
+    },
+    "move": {
+      "startFrame": 4,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.15,
+      "frameDelays": [
+        0.15,
+        0.15,
+        0.15,
+        0.15
+      ],
+      "isMovement": true
+    },
+    "run_move": {
+      "startFrame": 20,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.125,
+      "frameDelays": [
+        0.125,
+        0.125,
+        0.125,
+        0.125
+      ],
+      "isMovement": true
+    },
+    "seals": {
+      "startFrame": 36,
+      "frameCount": 3,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.05,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "seals_move": {
+      "startFrame": 48,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.125,
+      "frameDelays": [
+        0.125,
+        0.125,
+        0.125,
+        0.125
+      ],
+      "isMovement": true
+    },
+    "seal": {
+      "startFrame": 64,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": null,
+      "isMovement": false
+    },
+    "seal_move": {
+      "startFrame": 68,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.125,
+      "frameDelays": [
+        0.125,
+        0.125,
+        0.125,
+        0.125
+      ],
+      "isMovement": true
+    },
+    "seal ground": {
+      "startFrame": 84,
+      "frameCount": 5,
+      "directionCount": 4,
+      "frameTime": 0.05,
+      "frameDelays": [
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        1.0
+      ],
+      "isMovement": false
+    },
+    "pattack1": {
+      "startFrame": 104,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "pattack2": {
+      "startFrame": 120,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "pattack3": {
+      "startFrame": 136,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "pattack4": {
+      "startFrame": 152,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "pattack5": {
+      "startFrame": 168,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "psmash1": {
+      "startFrame": 184,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "pattack rapid": {
+      "startFrame": 200,
+      "frameCount": 6,
+      "directionCount": 4,
+      "frameTime": 0.05,
+      "frameDelays": [
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.075,
+        0.075
+      ],
+      "isMovement": false
+    },
+    "kattack1": {
+      "startFrame": 224,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "kattack2": {
+      "startFrame": 240,
+      "frameCount": 5,
+      "directionCount": 4,
+      "frameTime": 0.05,
+      "frameDelays": [
+        0.05,
+        0.1,
+        0.1,
+        0.1,
+        0.05
+      ],
+      "isMovement": false
+    },
+    "ksmash1": {
+      "startFrame": 260,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack1": {
+      "startFrame": 276,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack2": {
+      "startFrame": 292,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack3": {
+      "startFrame": 308,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack4": {
+      "startFrame": 324,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack5": {
+      "startFrame": 340,
+      "frameCount": 5,
+      "directionCount": 1,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wattack6": {
+      "startFrame": 345,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "wthrow1": {
+      "startFrame": 361,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.2
+      ],
+      "isMovement": false
+    },
+    "wthrow2": {
+      "startFrame": 377,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.2
+      ],
+      "isMovement": false
+    },
+    "hurt": {
+      "startFrame": 393,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1
+      ],
+      "isMovement": false
+    },
+    "knockback": {
+      "startFrame": 397,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1
+      ],
+      "isMovement": false
+    },
+    "dead": {
+      "startFrame": 401,
+      "frameCount": 5,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "dead2": {
+      "startFrame": 421,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": null,
+      "isMovement": false
+    },
+    "defend": {
+      "startFrame": 425,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": null,
+      "isMovement": false
+    },
+    "knockout fall": {
+      "startFrame": 429,
+      "frameCount": 5,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "knockout": {
+      "startFrame": 449,
+      "frameCount": 6,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "grab": {
+      "startFrame": 473,
+      "frameCount": 5,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "fist stance": {
+      "startFrame": 493,
+      "frameCount": 8,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "weapon stance": {
+      "startFrame": 525,
+      "frameCount": 8,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "isMovement": false
+    },
+    "weapon stance_move": {
+      "startFrame": 557,
+      "frameCount": 4,
+      "directionCount": 4,
+      "frameTime": 0.125,
+      "frameDelays": [
+        0.125,
+        0.125,
+        0.125,
+        0.125
+      ],
+      "isMovement": true
+    },
+    "hands charge": {
+      "startFrame": 573,
+      "frameCount": 1,
+      "directionCount": 4,
+      "frameTime": 0.1,
+      "frameDelays": null,
+      "isMovement": false
+    }
+  }
+}
