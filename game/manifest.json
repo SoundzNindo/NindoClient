@@ -1,20 +1,10 @@
 ﻿{
-    "buildDate":  "2026-04-09T17:53:31Z",
+    "buildDate":  "2026-04-10T13:18:04Z",
     "files":  [
-                  {
-                      "path":  "NindoRuntime.dll",
-                      "sha256":  "0188201cc62963fce033e186430ce6e4c82b24b1c902bb1cf7db7f5d9de1c291",
-                      "size":  1162240
-                  },
                   {
                       "path":  "Microsoft.CSharp.dll",
                       "sha256":  "d52023898cad01fd270d81d58d8c8cdd29cb4293824838cb71d601c229c7f358",
                       "size":  1005864
-                  },
-                  {
-                      "path":  "NindoRuntime.pdb",
-                      "sha256":  "88a4fcf9e2601df05ba0a639d7ee0acc430556b603d1bae865094ba91938c003",
-                      "size":  391704
                   },
                   {
                       "path":  "Microsoft.VisualBasic.Core.dll",
@@ -1357,99 +1347,84 @@
                       "size":  1542144
                   },
                   {
+                      "path":  "manifest.json",
+                      "sha256":  "eacca17a89110794f6a0c18d53d5d3ce1c17bfc3c3136cd4124314ea9ac7568e",
+                      "size":  360797
+                  },
+                  {
                       "path":  "CloudyEngine.Core.dll",
-                      "sha256":  "4413c57f7527ff4b50bc7a8f3fab2f384c0ce1d431ae25fd0ab9081e4feefd2e",
+                      "sha256":  "f7f93534f2a4e7eb53f80a8e637d303aacb07023e95b089dd8acf1f747d50613",
                       "size":  49152
                   },
                   {
                       "path":  "CloudyEngine.Data.dll",
-                      "sha256":  "95726ec054a1614ad9105c0920dd940771f266c8cd473da9ae1ac8ba7fb67929",
+                      "sha256":  "c3bbcab190996cd7e33c9a013a31b855e51b0e41defd0553fb3539e3c86a2d4e",
                       "size":  14336
                   },
                   {
-                      "path":  "CloudyEngine.Networking.dll",
-                      "sha256":  "8e8229a883ed9911fc6ff6727fdc7ba4f8d6ad50d3109d87330c5ebede132649",
-                      "size":  272896
-                  },
-                  {
-                      "path":  "CloudyEngine.RPG.dll",
-                      "sha256":  "b9330f7db240d264ce7c77686834decb569678830db1d6112459d4d86c037b45",
-                      "size":  103424
-                  },
-                  {
                       "path":  "CloudyEngine.Rendering.dll",
-                      "sha256":  "fc859c6f3430832ae29398bd7cd81c651d5e06bee8ee4f1d32ec91eca508be62",
+                      "sha256":  "bdd15f74807590d64afb3da3e2db6fac24bcd2a11fe7f1fc5823a65adb423e99",
                       "size":  11264
                   },
                   {
                       "path":  "CloudyEngine.Server.dll",
-                      "sha256":  "8c049aae2075453078b152a1591910cd38fe59833103ef0dd655c27a44fecaa3",
+                      "sha256":  "2e035d35ae17059c643853696a51e972902e1dd42b6441fa2f81719504498a36",
                       "size":  75264
                   },
                   {
-                      "path":  "NindoServer.dll",
-                      "sha256":  "02523bdab97d31c269d51f05c917b9ca37e940adf72cc648f884059e498a555d",
-                      "size":  374272
-                  },
-                  {
                       "path":  "NindoAuth.dll",
-                      "sha256":  "22fff8a7fdac1b5c804aee65b8510dd608ce1ffe1802c69472e54c328c6dc33a",
+                      "sha256":  "27380266ae72e5c88a4ec2524790570755f83f90f677e4ec7e8b453d087e0ec7",
                       "size":  44544
                   },
                   {
-                      "path":  "CloudyEngine.Core.pdb",
-                      "sha256":  "c35f1790b694e9936f1c799d7284aaee4de99ca8ef4daa03a5cd37a24682e9ab",
-                      "size":  26228
+                      "path":  "NindoServer.dll",
+                      "sha256":  "bc4fe30a871454200011d914586107c81b64ce150bcd8a7e1e1780e27143b113",
+                      "size":  374272
                   },
                   {
                       "path":  "CloudyEngine.Rendering.pdb",
-                      "sha256":  "0a5820b050b81cacde4ca882dcdfb9a2fbd56a81095d0adf1acfad6fbefd76ec",
+                      "sha256":  "1df384f81529c046c14387a1746d68c2fa964906f6d72f622192b8bba6b73f13",
                       "size":  13968
                   },
                   {
+                      "path":  "CloudyEngine.Core.pdb",
+                      "sha256":  "3caa450f7a3b72372a232b6a835d5966166bf35c443c64afdcbf9f4aaad77d2c",
+                      "size":  26232
+                  },
+                  {
                       "path":  "CloudyEngine.Data.pdb",
-                      "sha256":  "c9a49cd32de5082d4bd20d109607d8d5570818ca1ec9b2943bbfb38833ec14f9",
+                      "sha256":  "aee9706d9a66986bf4ef141c74f5aaf9232d6b552366bf792a15ccae4ee646cb",
                       "size":  14764
                   },
                   {
-                      "path":  "CloudyEngine.RPG.pdb",
-                      "sha256":  "475e34915f850063eb0798c5d374734032a0d735e90d4a32fb758c66a275325b",
-                      "size":  44252
-                  },
-                  {
                       "path":  "NindoServer.pdb",
-                      "sha256":  "764cb4f33f8491307ec3f5a7544fd1b4ed3e363aff481dfc139335d6eaf19a86",
+                      "sha256":  "ddf44a81cd2818b06de03ff2a8d261e6ea8dfb1c77f6d6d2f4b3ed0f7ef02b96",
                       "size":  132076
                   },
                   {
-                      "path":  "CloudyEngine.Networking.pdb",
-                      "sha256":  "72a20d759bc146edd000807e0865941648f306b8326b8ed41bb16c84e38ddb95",
-                      "size":  89348
-                  },
-                  {
-                      "path":  "CloudyEngine.Server.pdb",
-                      "sha256":  "3f27956831af29b1e91bc2dc87669a460291fc50008dfadca578d33d810141cd",
-                      "size":  36020
-                  },
-                  {
                       "path":  "NindoAuth.pdb",
-                      "sha256":  "ac67b2df7fe8beffccd73bcf62f807a0b3f504843cc864a9b60e84db339d73ca",
+                      "sha256":  "122d0a3d45c8433b5c35f62a8512a0fbcf77ae64e05ab6366e00555289392c80",
                       "size":  19720
                   },
                   {
+                      "path":  "CloudyEngine.Server.pdb",
+                      "sha256":  "dd8cbe49c673631bc867592f2a1ec5ca0ed08cae61bd85a5d34e6e47c561bb65",
+                      "size":  36020
+                  },
+                  {
                       "path":  "CloudyEngine.Server.exe",
-                      "sha256":  "183b7380b4c99adf0de4acad6a09f161ad908c6e41ac06693ea971368ccbcbf9",
+                      "sha256":  "dbe9cd07d8cc2af47f0636dc152cdbd4f7d3a32e3be2ed01c2f83ef4157f3ade",
                       "size":  152064
                   },
                   {
                       "path":  "NindoServer.exe",
-                      "sha256":  "be0816dbd1460d7ce5a7456a7667a6d8041aa4d0e74a8f3fe31b3464b6f826d5",
+                      "sha256":  "e09872d234bf3f184e0a50ee56648fbb0999c0532d3d40379ec07f186618be54",
                       "size":  151552
                   },
                   {
-                      "path":  "NindoRuntime.exe",
-                      "sha256":  "67c1e133afc6e5f99e0d3c4f9d6cdc0c30b864c218c2419f8b093929475cb610",
-                      "size":  151552
+                      "path":  "NindoServer.runtimeconfig.json",
+                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
+                      "size":  372
                   },
                   {
                       "path":  "NindoServer.deps.json",
@@ -1457,7 +1432,17 @@
                       "size":  56049
                   },
                   {
-                      "path":  "NindoServer.runtimeconfig.json",
+                      "path":  "NindoRuntime.dll",
+                      "sha256":  "ecc00eedc9ab1b25b7e0dedc88825fb1a4f9f8a445333e5fe1ecf48dfbfdfd79",
+                      "size":  1162240
+                  },
+                  {
+                      "path":  "CloudyEngine.Server.deps.json",
+                      "sha256":  "2986b3024504db582bcee94293bc1b346bacf492213623311d8e40cc44ec762b",
+                      "size":  48649
+                  },
+                  {
+                      "path":  "CloudyEngine.Server.runtimeconfig.json",
                       "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
                       "size":  372
                   },
@@ -1467,24 +1452,39 @@
                       "size":  68227
                   },
                   {
-                      "path":  "CloudyEngine.Server.runtimeconfig.json",
-                      "sha256":  "2acecf8b117c9283a6552817b84fabefc86b91bb0061521f6d7c696c9dc1873b",
-                      "size":  372
-                  },
-                  {
                       "path":  "NindoRuntime.runtimeconfig.json",
                       "sha256":  "413d6fb184292d2b7a3014e7fb5cd96c95df5009cad7fabadc01ff8a6c49ac5c",
                       "size":  468
                   },
                   {
-                      "path":  "CloudyEngine.Server.deps.json",
-                      "sha256":  "2986b3024504db582bcee94293bc1b346bacf492213623311d8e40cc44ec762b",
-                      "size":  48649
+                      "path":  "NindoRuntime.pdb",
+                      "sha256":  "0ed0e67037960df540daba042caf597ea0ed331e6b9bfa30359f92ee2ce2b343",
+                      "size":  391708
                   },
                   {
-                      "path":  "manifest.json",
-                      "sha256":  "eee932e9ae912492973e8ccfe8a97308c9fe3e93bf40e4c2e620506b18b9a1c7",
-                      "size":  135153
+                      "path":  "CloudyEngine.Networking.dll",
+                      "sha256":  "d2b8293a5c92db368b30dcf7858321e28e6ca733a2ebe72e5c8c7a2e9ca0bd3a",
+                      "size":  272896
+                  },
+                  {
+                      "path":  "CloudyEngine.RPG.dll",
+                      "sha256":  "ead981075a511b218c0311de30c1f1699ce628ca1bc7cd70c043609a410f0587",
+                      "size":  103424
+                  },
+                  {
+                      "path":  "CloudyEngine.RPG.pdb",
+                      "sha256":  "6877f21625326fb0632452a10032a1f2b9f76e012558c781c1763288aa5f0a86",
+                      "size":  44252
+                  },
+                  {
+                      "path":  "CloudyEngine.Networking.pdb",
+                      "sha256":  "88d3893ae1e076e2be5bd74d4c5cbc9a26b2306e3780a977bf144669aef59476",
+                      "size":  89348
+                  },
+                  {
+                      "path":  "NindoRuntime.exe",
+                      "sha256":  "230b693f4f3f9e159d85d9037e4c3722e8c3adf5682c48b4feda6cd6a07a79ff",
+                      "size":  151552
                   },
                   {
                       "path":  "projects/Nindo.world.json",
@@ -1512,49 +1512,29 @@
                       "size":  3351127
                   },
                   {
-                      "path":  "assets/maps/leafvillage.json",
-                      "sha256":  "4cf66da2ef4c35bb9059c8568a06ed8fbe6ffe2db2f7c76ff2c1727530b7dc82",
-                      "size":  21393982
+                      "path":  "assets/maps/leaf_southern_path2.json",
+                      "sha256":  "1325a29b3f10c74fddeb9acf7e5e64893e0d47d5e671aac9170c6b31c4d72c19",
+                      "size":  2816961
                   },
                   {
                       "path":  "assets/maps/leaf_southern_end.json",
-                      "sha256":  "8e69ff066a5cd5a9b7e76089d3f176e620ad36ed3a6d851e10ba8ae399505c28",
+                      "sha256":  "f4937ea14aee102cf1268277dff353a619c7ff4f68b45b4da9c4c2afbceabaab",
                       "size":  3856341
                   },
                   {
-                      "path":  "assets/maps/spawntestmap.json",
-                      "sha256":  "962070199706f38846bd867f73c05d3ed55222c843993a7b6499aed51b8a03d8",
-                      "size":  18758305
-                  },
-                  {
                       "path":  "assets/maps/leaf_training_ground.json",
-                      "sha256":  "e3fb4addca45f78c3705a33a84ddc4462a7dcc9dc5702e6af97366d16fb2cd7f",
+                      "sha256":  "9052f520deddf37d5b34a7731b1988beeaa0a67e03239a3ee496e03b3d7315c7",
                       "size":  5514519
                   },
                   {
-                      "path":  "assets/maps/leaf_southern_path2.json",
-                      "sha256":  "5d33c6f3cebd4c10ebfa0482008f90e665e9a5bdece6e62f70381f7a8bfead01",
-                      "size":  2816962
-                  },
-                  {
-                      "path":  "assets/maps/spawntestmapcollisions.json",
-                      "sha256":  "bc5b0d0a19411aa20804397166b496922704c9cb84db324d896ff34890f33c11",
-                      "size":  18404395
-                  },
-                  {
-                      "path":  "assets/maps/spawntestmapcollisionsv2.json",
-                      "sha256":  "f98d944c262d7b62f4697c6df4e0a81158315bad3ccd5d03976baeb508708654",
-                      "size":  18389002
-                  },
-                  {
                       "path":  "assets/maps/west_southernleaf2_path.json",
-                      "sha256":  "91161cf889606e85e084a6d5277bb959fe0819a0d76b55c10b1bf09ee0affe1b",
+                      "sha256":  "57d659c5677cb8b2323dc21127d01b9ae72f564b272c8e4d512781d19e440ef2",
                       "size":  2803389
                   },
                   {
-                      "path":  "assets/maps/spawntestmapcollisionsv3.json",
-                      "sha256":  "37aef27cc08772522ff8a94e193d6717e0ac7fc9b8ea9ee35d1f2089b954234b",
-                      "size":  18377956
+                      "path":  "assets/maps/current_map.toml",
+                      "sha256":  "77932305d39a4907889b5273e7b37c6acc3e62341c371f2a908f1839b90c5c17",
+                      "size":  39307456
                   },
                   {
                       "path":  "assets/sprites/soundentrance.json",
@@ -4018,8 +3998,8 @@
                   },
                   {
                       "path":  "assets/sprites/phoenix flower.png",
-                      "sha256":  "cf8977a6216a489d7e889e2c84a7926a819850d28a1de42457b86edd31dac25f",
-                      "size":  5448
+                      "sha256":  "65101d01cd09bb023782443d40def91bc4dad4d1cb33136eadbe26905f60de42",
+                      "size":  5416
                   },
                   {
                       "path":  "assets/sprites/phoenix sage flower.png",
@@ -5032,6 +5012,71 @@
                       "size":  196
                   },
                   {
+                      "path":  "assets/sprites/leaf academy.png",
+                      "sha256":  "ec9002510383e6be79799a5fee3009bc9f3a518adc51b4ba74e116b0907ac650",
+                      "size":  49703
+                  },
+                  {
+                      "path":  "assets/sprites/leaf hospital.png",
+                      "sha256":  "c469ccc9694282d72cd7defe406f4763ef9111f737d180790460d2e4832158ff",
+                      "size":  29712
+                  },
+                  {
+                      "path":  "assets/sprites/leaf mansion.png",
+                      "sha256":  "9e4aed4409b6d3f02c8c5fbf1de245a71e209357ce727d5855549093158c8779",
+                      "size":  42037
+                  },
+                  {
+                      "path":  "assets/sprites/leafHQ.png",
+                      "sha256":  "0fbc2057ddef218e492008dd57c70281251cb48a04857106cddc0ae4a988175b",
+                      "size":  28978
+                  },
+                  {
+                      "path":  "assets/sprites/Metal Fence.png",
+                      "sha256":  "4f387bf4af4d8906a2b53acacf4aa1dac3de7aa07db768b8880a9ce5ee929127",
+                      "size":  1826
+                  },
+                  {
+                      "path":  "assets/sprites/ramenshop.png",
+                      "sha256":  "d1bcd2f9d6071480510b3ff7a1b78a07cff3b4b79f6b9ba47e4c6e0885f921b9",
+                      "size":  6702
+                  },
+                  {
+                      "path":  "assets/sprites/tree4 (2).png",
+                      "sha256":  "dbea6041d83c76f69de69b1922fa6a1d20e54403ccca8f51cdee2a6ce84a085d",
+                      "size":  795
+                  },
+                  {
+                      "path":  "assets/sprites/tree4.png",
+                      "sha256":  "540b4b489f328e489b2bcbb875b1cbc1ef7a746b95d00ccef8f8cd18f7db7743",
+                      "size":  5083
+                  },
+                  {
+                      "path":  "assets/sprites/tree5.png",
+                      "sha256":  "a29927a98c9848c2ef416275043e850f7f72de1066c4c2c74856bf393fd3ce0b",
+                      "size":  1184
+                  },
+                  {
+                      "path":  "assets/sprites/base white.json",
+                      "sha256":  "7652af1eed89c3f646b335f40481403fe6db6d18d971338897d28347b1852e79",
+                      "size":  9481
+                  },
+                  {
+                      "path":  "assets/sprites/base shark.json",
+                      "sha256":  "36f85678f3cd446880ddf6fb9d769e7f58296659ff65c1dee28a28e45d0498b0",
+                      "size":  9481
+                  },
+                  {
+                      "path":  "assets/sprites/base dark.json",
+                      "sha256":  "3af3b5dc8d2964e4f7a78d6f13fa86f383ac430df297b95778ec33449d0803e3",
+                      "size":  9479
+                  },
+                  {
+                      "path":  "assets/sprites/paperdollpatchwork.gal",
+                      "sha256":  "35b4633e814b57bd5f4d8933e0cfe1b11ff6c65f776c3a5bba4b41d0d6186f95",
+                      "size":  2288005
+                  },
+                  {
                       "path":  "assets/sprites/sliced_tiles/mountaincliffs/tile_1_1.png",
                       "sha256":  "6a651d60f7492feb5880d0443225c7627ceb51affc9f137c98b3ac644d328954",
                       "size":  1298
@@ -5187,6 +5232,186 @@
                       "size":  289
                   },
                   {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_0.png",
+                      "sha256":  "de8f6de2086bddc3cb370d45e4446a635172980b03a48bc2d6d8ef59edfe76e3",
+                      "size":  345
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_0.png",
+                      "sha256":  "6d342dbce28ad04eda81425cc92eb591432df0dff967813fba6401834f2a5ad7",
+                      "size":  347
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_0.png",
+                      "sha256":  "4b6937ad73ad8049230e7c207a1f064f16aa5d16dd4b7bd71b435d6ce86e3b70",
+                      "size":  343
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_0.png",
+                      "sha256":  "981f2f63801712eeea3889f34ad011666a5b479364f4f106155eaee8c0612e0b",
+                      "size":  363
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_0.png",
+                      "sha256":  "e43cb962bbdf6e35e01cbd61d0bf577b4a88d3132e8a647399813527b9670218",
+                      "size":  299
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_0.png",
+                      "sha256":  "f545b0121de289d47ce0e989efa4b9610478a48a714333eda96e6deb7830e42b",
+                      "size":  323
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_1.png",
+                      "sha256":  "9e5235b3154ebdaf6652a9dd28992488bbbc0e8bbb9d9b0370036f758267fb8e",
+                      "size":  324
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_1.png",
+                      "sha256":  "5b1c7acee94b08bc375af4ef0b4d5b14e08fcb6069ab79282f7e883d46ab9803",
+                      "size":  288
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_1.png",
+                      "sha256":  "e43cb962bbdf6e35e01cbd61d0bf577b4a88d3132e8a647399813527b9670218",
+                      "size":  299
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_1.png",
+                      "sha256":  "f545b0121de289d47ce0e989efa4b9610478a48a714333eda96e6deb7830e42b",
+                      "size":  323
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_1.png",
+                      "sha256":  "9e5235b3154ebdaf6652a9dd28992488bbbc0e8bbb9d9b0370036f758267fb8e",
+                      "size":  324
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_1.png",
+                      "sha256":  "5b1c7acee94b08bc375af4ef0b4d5b14e08fcb6069ab79282f7e883d46ab9803",
+                      "size":  288
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_2.png",
+                      "sha256":  "afd4603faf8c48c5c8b1809988263b54ec79dc1c57313c2506c81170e0913ee5",
+                      "size":  480
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_2.png",
+                      "sha256":  "53cc4d9ca6d8960365fed58c97af5545be592a3a3f092928288ca7395ddcef58",
+                      "size":  449
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_2.png",
+                      "sha256":  "72039ee8ec10532d93feb3926ab60c1bb8f0477a45e22dce4c91677ea9bb56a7",
+                      "size":  434
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_2.png",
+                      "sha256":  "6e397cf17fc43ef778e1219546898e527fd78c3c46eb1a925bbdfe99d5673c84",
+                      "size":  462
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_2.png",
+                      "sha256":  "192fd60fdea70be3298605efd0e81a0d6f83696a9ec5b5bdab74b9bae605ba6e",
+                      "size":  443
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_2.png",
+                      "sha256":  "99e3fccc49064d56442b06998be5f23c43082ba9e45e9489722af14293a0c7ed",
+                      "size":  892
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_3.png",
+                      "sha256":  "384e22d33f96158f069d58713178daf03ef6c622451623dee2305b0e242cc15f",
+                      "size":  860
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_3.png",
+                      "sha256":  "f49ce1c02867ef15e642c6dd53cd4c7f42b144844a6f29de3a4881a759659066",
+                      "size":  862
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_3.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_3.png",
+                      "sha256":  "b85e89c0c6fe0b6875ce62d3a16999773e48bd96034fdc5f0602e7e85bcd0544",
+                      "size":  221
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_3.png",
+                      "sha256":  "3c23aa6f626c70e357da8481093529e8285500dd56d81565e924094ff503c6a1",
+                      "size":  235
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_3.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_4.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_4.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_4.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_4.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_4.png",
+                      "sha256":  "de8f6de2086bddc3cb370d45e4446a635172980b03a48bc2d6d8ef59edfe76e3",
+                      "size":  345
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_4.png",
+                      "sha256":  "6d342dbce28ad04eda81425cc92eb591432df0dff967813fba6401834f2a5ad7",
+                      "size":  347
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_0_5.png",
+                      "sha256":  "4b6937ad73ad8049230e7c207a1f064f16aa5d16dd4b7bd71b435d6ce86e3b70",
+                      "size":  343
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_1_5.png",
+                      "sha256":  "981f2f63801712eeea3889f34ad011666a5b479364f4f106155eaee8c0612e0b",
+                      "size":  363
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_2_5.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_3_5.png",
+                      "sha256":  "35b3296782494069ec56c64e026b1d8c9468adce00ec9dcae76e017b4f16ee4f",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_4_5.png",
+                      "sha256":  "c7761cd877a34b69263ff02ab10c1c9b8bcf920e7165bacb22e0d1a9d11073d5",
+                      "size":  114
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/water/tile_5_5.png",
+                      "sha256":  "c7761cd877a34b69263ff02ab10c1c9b8bcf920e7165bacb22e0d1a9d11073d5",
+                      "size":  114
+                  },
+                  {
                       "path":  "assets/sprites/sliced_tiles/grass/corner_sw.png",
                       "sha256":  "0fd71335b187b26100deabeda2aa0e05ef55f16cf4b37392c3a70eb21f47d4f9",
                       "size":  480
@@ -5272,6 +5497,86 @@
                       "size":  506
                   },
                   {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_0_0.png",
+                      "sha256":  "0605b86378c5841f6c30819280b39b94b0567418eaacc3748eca4739a8fc0523",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_1_0.png",
+                      "sha256":  "01f1b28c7535e4731f3863f0dbcf01bc97c8c7741b03059ce721867b726dd5d9",
+                      "size":  218
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_2_0.png",
+                      "sha256":  "06a39f36cf44e922945ca848d1952b9afa110fc5a484c0b8a846041ff3ca7c78",
+                      "size":  321
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_3_0.png",
+                      "sha256":  "7a936205ade3b2577c59c25338e93830a809733e317ede54f8e2d1bb4db76944",
+                      "size":  288
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_0_1.png",
+                      "sha256":  "acd12e46181f6634950c10d44c27a51cb418f320cf74f77da3fa13f0a0eccd34",
+                      "size":  360
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_1_1.png",
+                      "sha256":  "37fdc0d32b12b3c7ab35995ae260cae4191577933d8724f8da9de1da08c66450",
+                      "size":  274
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_2_1.png",
+                      "sha256":  "d7c72edc9bcb300ed8617ed2b866066348b56654a6aed34d9d43ce7ad32c2377",
+                      "size":  325
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_3_1.png",
+                      "sha256":  "6a9976e74ee3840fd6100eacab8c16525eb204e272a1e5a359daa218da0dbd21",
+                      "size":  285
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_0_2.png",
+                      "sha256":  "9488027c65c67a493e26ee9aa5513fb0806e37f6369733a9bfaf137412d390f3",
+                      "size":  310
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_1_2.png",
+                      "sha256":  "81011c7347e03a8e82287146cbd9b7367d182cd024e3e98dbf5cc1304df250e5",
+                      "size":  447
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_2_2.png",
+                      "sha256":  "dd118ce85e6fa34915675d709eec73c2cf5846711651499698ce1da5117ade8a",
+                      "size":  448
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_3_2.png",
+                      "sha256":  "05b1e81d3f835771de40e52e4e205a3b75e249b77e3a5c806196e329ae67174a",
+                      "size":  456
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_0_3.png",
+                      "sha256":  "64ef0bed69f86416454898842e9e700c50972bfc52df98c55d1de6299d684b28",
+                      "size":  444
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_1_3.png",
+                      "sha256":  "8e0e2d19624416096673300f785efc034d06627e3c5d8dff2e1c81aac7692c58",
+                      "size":  496
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_2_3.png",
+                      "sha256":  "2b140ecbae3dafb07621152138966b9ae171a193bf4be8a1bd55c7baceebe9c0",
+                      "size":  384
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/grass/tile_3_3.png",
+                      "sha256":  "9286814705310fb66a14578231485195b2055267b23f8934d6c3c9f19b06b976",
+                      "size":  589
+                  },
+                  {
                       "path":  "assets/sprites/sliced_tiles/dirt/center_variant_2.png",
                       "sha256":  "9fab122a6d37b43f242e6ee0e941b4ad1201c594b8e96842a14aa44892518497",
                       "size":  417
@@ -5280,6 +5585,106 @@
                       "path":  "assets/sprites/sliced_tiles/dirt/center_variant_3.png",
                       "sha256":  "56b092c5ba6dfa63ebd489c0440453fa1ef2ed92c4850c5d74fdf211675743a0",
                       "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_0_0.png",
+                      "sha256":  "5b6feb4b09e56ddd4db5abd92a4a275fad719d0c15cb41dd6a1bb83ce1d8d53f",
+                      "size":  755
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_1_0.png",
+                      "sha256":  "56b092c5ba6dfa63ebd489c0440453fa1ef2ed92c4850c5d74fdf211675743a0",
+                      "size":  115
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_2_0.png",
+                      "sha256":  "abd70d556114d37a47ded3092519ee17d957a370a32381ef9a175978120e9d2c",
+                      "size":  729
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_3_0.png",
+                      "sha256":  "e8636bac4fa32f8dda8814aff0d4654cc04572186c7524c5af71884d31f5951b",
+                      "size":  844
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_4_0.png",
+                      "sha256":  "38e9344747f8bfa34ee5e21ae5fed7796ff286aa22f50c9fefee9bb0823f5cfd",
+                      "size":  681
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_0_1.png",
+                      "sha256":  "8c10350f236b84c074d6623cfc1bdf775413df224aecd3073ae6b6aef4c174a2",
+                      "size":  647
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_1_1.png",
+                      "sha256":  "e91229c57e3b3d7aec34b6b0e8b2dc53936039de3978e48986a0d3ff7703353c",
+                      "size":  872
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_2_1.png",
+                      "sha256":  "e80876c899ad2504e24aaef76d9f0d3fd5e2da791e937e6c1ec946daf5b20c24",
+                      "size":  646
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_3_1.png",
+                      "sha256":  "11a67b3ae5f6d0c39082ac4913a5028dbd74751a1a843a0989d6858ba0ea2b30",
+                      "size":  972
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_4_1.png",
+                      "sha256":  "3888ab559daf8df49a2ccdf9a772a1e0ee882066a8a2317950d179b99eb37a63",
+                      "size":  816
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_0_2.png",
+                      "sha256":  "c73f0e753ae556e96556c26d1e59d7b47db88a2a38c1592c3be59f622b39bb8e",
+                      "size":  670
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_1_2.png",
+                      "sha256":  "20e4f88a6736ee6e9956a8ab5c0236e0ab19771d221aeca493d77e18943263f9",
+                      "size":  670
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_2_2.png",
+                      "sha256":  "62d3b3e1c39b277d7b05af16d1e73e4891112ab1334e7609bfe822e09f1d07e0",
+                      "size":  996
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_3_2.png",
+                      "sha256":  "7896ea758922348ce978a80e0494f2946073bba9c71f274c4ff52162d05d834f",
+                      "size":  961
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_4_2.png",
+                      "sha256":  "3b3cd223de3ac3e5e2bfb0d462c47215fdf163d9f78815aa74d2fe7e3335ffcd",
+                      "size":  669
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_0_3.png",
+                      "sha256":  "90f76be85ee402984dac43e08cdf0c215d13f0b4106e099dd82e1732e9ab6ea3",
+                      "size":  936
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_1_3.png",
+                      "sha256":  "68357fe52493e838456b914806c1923ca0a055e51dd2a33bf6e74f7afa8ab2d5",
+                      "size":  1118
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_2_3.png",
+                      "sha256":  "9fab122a6d37b43f242e6ee0e941b4ad1201c594b8e96842a14aa44892518497",
+                      "size":  417
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_3_3.png",
+                      "sha256":  "dd813f78dbeddffd27a447f80af1fc263a2f33cee629ad0fa6b4e45fbccd66e5",
+                      "size":  294
+                  },
+                  {
+                      "path":  "assets/sprites/sliced_tiles/dirt/tile_4_3.png",
+                      "sha256":  "41987280324cd30fa31440d23f01d545a8797e6bbe57ab69733a6a99405060c4",
+                      "size":  105
                   },
                   {
                       "path":  "assets/sprites/Leaf Village Buildings/ramenshop.png",
@@ -5473,8 +5878,8 @@
                   },
                   {
                       "path":  "assets/sprites/Items/hair/narutohair - white.png",
-                      "sha256":  "d6514fcbff1985ff26f829b64b8ea248a28684f6ec85a07844e26a62cc4675c8",
-                      "size":  83193
+                      "sha256":  "032ca077375fe22d08e4946aae4c333208d089a1ce15fcdd23d9942b36bdbcf7",
+                      "size":  66554
                   },
                   {
                       "path":  "assets/sprites/Items/hair/narutohair - white.json",
@@ -5483,8 +5888,8 @@
                   },
                   {
                       "path":  "assets/sprites/Items/hair/cloudhair - white.png",
-                      "sha256":  "b9d9528987e434c7f4d4532a9729a33d12e1be7ede20aebafe50dc72af9165f6",
-                      "size":  81255
+                      "sha256":  "37bf7d13903dc6faff325994687fa5dee8a4f4253daf2d368f57fd4cb1b06963",
+                      "size":  71698
                   },
                   {
                       "path":  "assets/sprites/Items/hair/cloudhair - white.json",
@@ -5493,8 +5898,8 @@
                   },
                   {
                       "path":  "assets/sprites/Items/hair/kakashihair - white.png",
-                      "sha256":  "5c08f208ce07500b6cb4b96bd04daaade3185965457b39267a092cc0587c7b71",
-                      "size":  79922
+                      "sha256":  "33b130fdcb97d5a903299270a0dbf355794dca15306ee542ebfa442b02ca19a2",
+                      "size":  70182
                   },
                   {
                       "path":  "assets/sprites/Items/hair/kakashihair - white.json",
@@ -5503,8 +5908,8 @@
                   },
                   {
                       "path":  "assets/sprites/Items/hair/sasukehair - white.png",
-                      "sha256":  "2ead0052f6d39c5910a6d4fee3efc39106a621a1f14b5b9f216b25bb42d04497",
-                      "size":  88757
+                      "sha256":  "08ccc328f20774af996e0b19a0b24934d221d7c7c405b7fe9f05e84838570221",
+                      "size":  72327
                   },
                   {
                       "path":  "assets/sprites/Items/hair/sasukehair - white.json",
@@ -5522,6 +5927,16 @@
                       "size":  9975
                   },
                   {
+                      "path":  "assets/sprites/Items/clothing/bottoms/pants - white.png",
+                      "sha256":  "2da4dab9d826855fabb5252ac80f86641b81899ac4476e7a1afcbf8ad256d8b3",
+                      "size":  68345
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/bottoms/pants - white.json",
+                      "sha256":  "2980ef57e117a4a08fdc81811d98dae247cf0c7013ec7cf8c2d61893c7666ec8",
+                      "size":  9487
+                  },
+                  {
                       "path":  "assets/sprites/Items/clothing/tops/shirt - black.png",
                       "sha256":  "16e049134bffa65c779b885d7a7786bc16d6d8166740cc696b4301787ce7bfb9",
                       "size":  96420
@@ -5532,6 +5947,31 @@
                       "size":  9975
                   },
                   {
+                      "path":  "assets/sprites/Items/clothing/tops/vests/leafvest.png",
+                      "sha256":  "3fee81ecd848a3a735afe8f61445ab67c8904a5a40207b9e3745e42e045f7b26",
+                      "size":  66972
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/tops/vests/mistvest.png",
+                      "sha256":  "1d5ac57e3d8d01fdf630c6470010dc9e9d870173c843253ffd9a94203dc8aa3e",
+                      "size":  63225
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/tops/vests/sandvest.png",
+                      "sha256":  "adb7108bae38ed348f01d7355e0543f7b40549f4aec62b761a647ef56f7bca18",
+                      "size":  67707
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/tops/shirts/shirt - white.json",
+                      "sha256":  "7085fe753d668625dfe914e8278b8ebf4a432f0234d5359ed3a154699d6f2f67",
+                      "size":  9487
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/tops/shirts/shirt - white.png",
+                      "sha256":  "b217d9ff847749789c56d5f13cdce6ddbff43eb474392ba2d142a70e874d0ee2",
+                      "size":  73512
+                  },
+                  {
                       "path":  "assets/sprites/Items/clothing/shoes/shoes - black.png",
                       "sha256":  "c61c21951d939222e514256b3cc6530651bb06f5beda56d4f234fddcae2f15a9",
                       "size":  43875
@@ -5540,6 +5980,36 @@
                       "path":  "assets/sprites/Items/clothing/shoes/shoes - black.json",
                       "sha256":  "3f3cbc130de1d8bc60bf50a3093ec4db0d2284847966194e9b0c19916feebd3f",
                       "size":  9975
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/shoes/shoes - white.png",
+                      "sha256":  "88edb372748691e335fda6a851d33c31b97deeb085cb9a95e38a32a4b01c75ef",
+                      "size":  35497
+                  },
+                  {
+                      "path":  "assets/sprites/Items/clothing/shoes/shoes - white.json",
+                      "sha256":  "3a092954b12706079058fa57525e975fd4c198d7115fddb5993b6239a3a7f631",
+                      "size":  9487
+                  },
+                  {
+                      "path":  "assets/sprites/Bases/base dark.png",
+                      "sha256":  "18f55c30f47b54c09d18f0dc85ed3efe83ec2465709f21657786d5690800bdf1",
+                      "size":  174156
+                  },
+                  {
+                      "path":  "assets/sprites/Bases/base shark.png",
+                      "sha256":  "eb2211ddbf33e62ad9ff2d2858aa0d08518d6c5d91102a4298ac6edbb0c29408",
+                      "size":  183850
+                  },
+                  {
+                      "path":  "assets/sprites/Bases/base white.png",
+                      "sha256":  "de9d7055d33ab91ccb4bb91b19cb1f63c0af0bbfa3577044473b63e20e2daab5",
+                      "size":  185256
+                  },
+                  {
+                      "path":  "assets/sprites/Bases/base_black_real.png",
+                      "sha256":  "9230bf88a099d8db8f973cbb20f81e359816039a424927559c396f99b4b9fe3e",
+                      "size":  185442
                   },
                   {
                       "path":  "cs/PresentationCore.resources.dll",
@@ -6665,9 +7135,54 @@
                       "path":  "data/recipes/health_potion.json",
                       "sha256":  "49c8dc822b715e92861656ed78dc467b674dbaf000bf0ceb655512461eda93b4",
                       "size":  344
+                  },
+                  {
+                      "path":  "data/players/severus.dat",
+                      "sha256":  "671d69b0e62df946bdf6cce51db6218781cb15659ff0723c61c7e909bbc6fa53",
+                      "size":  468
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130431.json",
+                      "sha256":  "a9fa1265b510ed2c4c38e5ee8b1a9b468df9af799ad4e6eb7eb34e5a4ce6efba",
+                      "size":  95
+                  },
+                  {
+                      "path":  "data/players/snapshots/latest.json",
+                      "sha256":  "d5a3649818ee41c8064ac3fde50969efed9a92310a25319e94ca70902176f22f",
+                      "size":  95
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130531.json",
+                      "sha256":  "ed01471854994ad3efade4d93093813fb3d155d8c8888376c551e03729238b41",
+                      "size":  95
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130631.json",
+                      "sha256":  "4ff5c8f37268d751a8c9d364d8db112b98ce91ddc87051c2b70fd524ce4ef4d1",
+                      "size":  2190
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130731.json",
+                      "sha256":  "9827ec698e984d1c6bf7392fca5f85641827f7a93459560757f7a687eb1afb96",
+                      "size":  95
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130831.json",
+                      "sha256":  "63761b2969897f840a792c8c7d4e1e38f8040782235ad7553303c5cbd0424ad3",
+                      "size":  95
+                  },
+                  {
+                      "path":  "data/players/snapshots/20260410_130931.json",
+                      "sha256":  "d5a3649818ee41c8064ac3fde50969efed9a92310a25319e94ca70902176f22f",
+                      "size":  95
+                  },
+                  {
+                      "path":  "logs/auth_sessions.log",
+                      "sha256":  "5004cef3064d3d8f03da2b8692802861b52b6c89aeafd186b1c6f1c00541beb9",
+                      "size":  418
                   }
               ],
-    "version":  "0.1.0",
-    "fileCount":  1333,
-    "totalSize":  314999493
+    "version":  "0.1.3",
+    "fileCount":  1436,
+    "totalSize":  262806520
 }
